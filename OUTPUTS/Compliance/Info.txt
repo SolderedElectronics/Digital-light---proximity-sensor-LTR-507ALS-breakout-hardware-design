@@ -1,5 +1,5 @@
 SKU: 333063
 Full product name: Digital light & proximity sensor LTR-507 breakout
 Country of origin: Croatia
-HS tariff code: 90318000
+HS tariff code: 85340090
 EAN/UPC barcode: 732388671007
